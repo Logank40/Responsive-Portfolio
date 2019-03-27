@@ -252,3 +252,18 @@ input[type=submit] {
     height: auto;
   }
 }
+
+@media screen and (max-width: 768px) {
+
+body{
+  margin-bottom: 100px;
+  max-width: 768px;
+}
+
+
+
+@media screen and (max-width: 980px) {
+
+}
+
+}
